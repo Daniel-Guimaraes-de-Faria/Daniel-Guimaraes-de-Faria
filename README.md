@@ -5,4 +5,6 @@
 
 ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=Daniel-Guimaraes-de-Faria&show_icons=true&theme=tokyonight)
 
+##Linguagens que trabalho
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daniel-Guimaraes-de-Faria&layout=compact)
